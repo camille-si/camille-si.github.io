@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate at <a href='https://www.ntnu.edu/employees/camille.sivelle'>NTNU</a>.
 
 profile:
   align: left
