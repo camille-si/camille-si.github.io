@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Candidate at <a href='https://www.ntnu.edu/employees/camille.sivelle'>NTNU</a>.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
