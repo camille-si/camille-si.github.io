@@ -9,8 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Elektro B</p>
-    <p>O. S. Bragstads Plass 2A</p>
+    <p>Elektro B, O. S. Bragstads Plass 2A</p>
     <p>7034 Trondheim, NO</p>
 
 news: false  # includes a list of news items
