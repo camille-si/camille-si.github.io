@@ -13,10 +13,10 @@ profile:
     <p>O. S. Bragstads Plass 2A</p>
     <p>7034 Trondheim, NO</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi ! I'm a PhD student in security and privacy for XR at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. I work in the Department of Information Security and Communication Technology. My research aims to understand the way security, privacy and usability interact in immersive technologies, qin order to provide XR experiences that are both secure and human-centered. My PhD is a part of NTNU's <a href='https://www.ntnu.edu/perseus/'>PERSEUS</a> project and <a href='https://www.ntnu.edu/norcics'>SFI NORCICS</a>.
