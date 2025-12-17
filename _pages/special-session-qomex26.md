@@ -30,7 +30,7 @@ social: false  # includes social icons at the bottom of the page
     letter-spacing: 0.05em;
     margin-bottom: 24px;
   ">
-    Special Session in QoMEX 2026
+    CALL FOR PAPERS
   </div>
 
   <!-- Title -->
@@ -71,9 +71,9 @@ This special session aims to foster a critical discussion by adopting a broader 
 
 <h2> Organisers </h2>
 
-Camille Sivelle, NTNU (camille.sivelle@ntnu.no)
-Karolina Wylężek, CWI (karolina.wylezek@cwi.nl)
-Rakesh Rao Ramachandra Rao, TU Ilmenau (Rakesh-Rao.Ramachandra-Rao@tu-ilmenau.de)
-Ibrahim El Shemy, NTNU (ibrahime@ntnu.no)
-Kaja Fjørtoft Ystgaard, NTNU (kaja.ystgaard@ntnu.no)
-Katrien De Moor, NTNU (katrien.demoor@ntnu.no)
+Camille Sivelle, NTNU (camille.sivelle@ntnu.no)<br/>
+Karolina Wylężek, CWI (karolina.wylezek@cwi.nl)<br/>
+Rakesh Rao Ramachandra Rao, TU Ilmenau (Rakesh-Rao.Ramachandra-Rao@tu-ilmenau.de)<br/>
+Ibrahim El Shemy, NTNU (ibrahime@ntnu.no)<br/>
+Kaja Fjørtoft Ystgaard, NTNU (kaja.ystgaard@ntnu.no)<br/>
+Katrien De Moor, NTNU (katrien.demoor@ntnu.no)<br/>
