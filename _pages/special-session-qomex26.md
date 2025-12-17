@@ -1,6 +1,6 @@
 ---
 layout: qomex
-title: about
+title: Beyond Quality: Integrating Ethical Dimensions in QoE Research
 permalink: /qomex
 
 news: false  # includes a list of news items
@@ -9,9 +9,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<h2> Description </h2>
+Despite technical and methodological advances in the development and evaluation of enjoyable technology experiences, one aspect often remains overlooked in QoE research: the broader ethical implications of these digital experiences. For instance, AI can adapt and improve user experiences — but it creates concerns regarding aspects such as biases, fairness, transparency, trust and accountability. Social media or streaming platforms can negatively impact users’ wellbeing and mental health. UX research on Gen-AI or XR raises concerns regarding privacy, responsible use of AI, and long-term environmental impact of these technologies. It is critical to start considering these implications and balancing UX and ethical costs, in order to provide technology experiences that are not just enjoyable but truly human-centered, ethical, and empowering. 
+This special session aims to foster a critical discussion by adopting a broader perspective to examine a wide array of ethical dilemmas and implications of ever-improved multimedia experiences and what they mean for QoE research, measures and test designs. This requires a shift towards increased ethical reflexivity and more value-sensitive QoE research, for instance by moving from viewing QoE as an individual concept to a paradigm that also acknowledges collective QoE. 
+To practically integrate those aspects in QoE research, we welcome diverse contributions. First, we welcome novel ways to model user experience — for instance by expanding the working definitions of QoE and UX to integrate a social impact factor that reflects broader effects on people and society.  Another example is UX evaluations of technological features supporting ethical values (e.g., UX of dark patterns in social media or privacy controls). Also considering collective QoE and ethics, we invite critical studies, using empirical methods and tools for reflection that improves human safety from a system perspective. This includes, for instance, innovative uses of interdisciplinary methods related to critical AI and QoE, examining QoE through a critical lens, usually comparing diverse perspectives and outcomes in various multi-media applications. Also of interest are holistic system analyses, e.g. on how AI is used for QoE, where it is ethical, for whom and why. Examples include broader understanding of the underlying AI functionalities when applied to QoE, investigating power and bias in QoE, who is responsible and who is impacted, and potential negative impacts. We particularly encourage papers that e.g., provide critical perspectives, push towards a future research agenda, propose brave new ideas, and aim to challenge the state of the art.
+This special session also aims to reflect on ethical considerations in our own research practices (e.g., regarding inclusivity, data protection…). In particular, QoE practices often assume “typical” users, overlooking individuals with disabilities or in low-resource environments, raising questions of equity and digital exclusion. We welcome contributions that integrate these concerns in their research designs, methodologies or sampling approaches.
+Overall, we aim for this special session to support the development of ethical, human(ity)-centered paradigms, by establishing novel frameworks integrating ethical aspects in QoE research, and conducting UX/QoE research on technology features supporting ethical values, or with a specific focus on a given ethical dimension.
 
-<p>Hi ! I'm a PhD student in security and privacy for XR at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. I work in the Department of Information Security and Communication Technology, under the supervision of Associate Professor <a href='https://www.ntnu.edu/employees/katrien.demoor'>Katrien De Moor</a>. </p>
+<h2> Topics of interest </h2>
 
-<p> My research aims to understand the way security, privacy and usability interact in immersive technologies, in order to provide XR experiences that are both secure and human-centered. My PhD is a part of NTNU's <a href='https://www.ntnu.edu/perseus/'>PERSEUS</a> project and <a href='https://www.ntnu.edu/norcics'>SFI NORCICS</a>.</p>
 
-<p>I received a M.S. in Information Security from the Université de Lorraine and I graduated from the Ecole des Mines de Nancy (Nancy, France). Prior to starting my PhD, I worked as a Research Engineer in I-Iot security for CEA-Leti (Grenoble, France). </p>
+<h2> Organisers </h2>
+
+Camille Sivelle, NTNU (camille.sivelle@ntnu.no)
+Karolina Wylężek, CWI (karolina.wylezek@cwi.nl)
+Rakesh Rao Ramachandra Rao, TU Ilmenau (Rakesh-Rao.Ramachandra-Rao@tu-ilmenau.de)
+Ibrahim El Shemy, NTNU (ibrahime@ntnu.no)
+Kaja Fjørtoft Ystgaard, NTNU (kaja.ystgaard@ntnu.no)
+Katrien De Moor, NTNU (katrien.demoor@ntnu.no)
