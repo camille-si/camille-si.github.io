@@ -1,6 +1,6 @@
 ---
 layout: qomex
-title: Beyond Quality: Integrating Ethical Dimensions in QoE Research
+title: Special Session Qomex 2026
 permalink: /qomex
 
 news: false  # includes a list of news items
@@ -8,8 +8,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+<h1>Beyond Quality: Integrating Ethical Dimensions in QoE Research</h1>
 
 <h2> Description </h2>
+
 Despite technical and methodological advances in the development and evaluation of enjoyable technology experiences, one aspect often remains overlooked in QoE research: the broader ethical implications of these digital experiences. For instance, AI can adapt and improve user experiences — but it creates concerns regarding aspects such as biases, fairness, transparency, trust and accountability. Social media or streaming platforms can negatively impact users’ wellbeing and mental health. UX research on Gen-AI or XR raises concerns regarding privacy, responsible use of AI, and long-term environmental impact of these technologies. It is critical to start considering these implications and balancing UX and ethical costs, in order to provide technology experiences that are not just enjoyable but truly human-centered, ethical, and empowering. 
 This special session aims to foster a critical discussion by adopting a broader perspective to examine a wide array of ethical dilemmas and implications of ever-improved multimedia experiences and what they mean for QoE research, measures and test designs. This requires a shift towards increased ethical reflexivity and more value-sensitive QoE research, for instance by moving from viewing QoE as an individual concept to a paradigm that also acknowledges collective QoE. 
 To practically integrate those aspects in QoE research, we welcome diverse contributions. First, we welcome novel ways to model user experience — for instance by expanding the working definitions of QoE and UX to integrate a social impact factor that reflects broader effects on people and society.  Another example is UX evaluations of technological features supporting ethical values (e.g., UX of dark patterns in social media or privacy controls). Also considering collective QoE and ethics, we invite critical studies, using empirical methods and tools for reflection that improves human safety from a system perspective. This includes, for instance, innovative uses of interdisciplinary methods related to critical AI and QoE, examining QoE through a critical lens, usually comparing diverse perspectives and outcomes in various multi-media applications. Also of interest are holistic system analyses, e.g. on how AI is used for QoE, where it is ethical, for whom and why. Examples include broader understanding of the underlying AI functionalities when applied to QoE, investigating power and bias in QoE, who is responsible and who is impacted, and potential negative impacts. We particularly encourage papers that e.g., provide critical perspectives, push towards a future research agenda, propose brave new ideas, and aim to challenge the state of the art.
