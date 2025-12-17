@@ -1,6 +1,7 @@
 ---
 layout: qomex
-title: Special Session Qomex 2026
+title: "Beyond Quality: Integrating Ethical Dimensions in QoE Research"
+description: "Special Session in QoMEX 2026
 permalink: /qomex
 
 news: false  # includes a list of news items
@@ -8,7 +9,68 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<h1>Beyond Quality: Integrating Ethical Dimensions in QoE Research</h1>
+
+<div style="
+  width: 100%;
+  background-color: #964a4b;
+  color: #ffffff;
+  padding: 100px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+">
+
+  <!-- Small top label -->
+  <div style="
+    display: inline-block;
+    background-color: #95c2ae;
+    color: #ffffff;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    margin-bottom: 24px;
+  ">
+    Special Session in QoMEX 2026
+  </div>
+
+  <!-- Title -->
+  <h1 style="
+    margin: 24px auto 16px auto;
+    max-width: 900px;
+    font-size: 48px;
+    line-height: 1.2;
+    font-weight: 700;
+  ">
+    Beyond Quality:<br>
+    Integrating Ethical Dimensions in QoE Research
+  </h1>
+
+  <!-- Subtitle -->
+  <p style="
+    margin: 0 auto 32px auto;
+    max-width: 700px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #cbd5e1;
+  ">
+  A special session @ the 18th **International Conference on Quality of Multimedia Experience** (QoMEX’26)  </p>
+
+  <!-- Meta info -->
+  <div style="
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    font-size: 16px;
+    color: #e5e7eb;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+  ">
+    <div>📍 Cardiff, UK</div>
+    <div>📅 June 29 - July 3, 2026</div>
+  </div>
+</div>
 
 <h2> Description </h2>
 
