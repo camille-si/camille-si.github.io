@@ -50,7 +50,14 @@ This special session aims to foster a critical discussion by adopting a broader 
 <p>Overall, we aim for this special session to support the development of ethical, human(ity)-centered paradigms, by establishing novel frameworks integrating ethical aspects in QoE research, and conducting UX/QoE research on technology features supporting ethical values, or with a specific focus on a given ethical dimension.</p>
 
 <h2> Topics of interest </h2>
+We invite contributions spanning across different disciplines, with topics at the interplay of ethical aspects and Quality of multimedia experiences. Topics of interest include (but not limited to):
 
+<ul>
+  <li>Ethical dilemmas and implications of QoE/UX research, for instance in regards with the use of AI or physiological sensing for QoE improvement </li>
+  <li>Ethical research pratices in the QoE community (inclusion, diversity, research ethics...)</li>
+  <li>Novel frameworks and paradigms to better integrate ethical assessments in UX evaluations</li>
+  <li>QoE/UX studies of ethics-related features (e.g. consent mechanism, accessibility, ...), or QoE/UX studies with a particular focus on an ethical aspect (focus on under-represented participants, inclusivity...)</li>
+</ul>
 
 <h2> Organisers </h2>
 
