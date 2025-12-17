@@ -1,7 +1,6 @@
 ---
 layout: qomex
-title: "Beyond Quality: Integrating Ethical Dimensions in QoE Research"
-description: "Special Session in QoMEX 2026
+title: QoMEX Special Session
 permalink: /qomex
 
 news: false  # includes a list of news items
