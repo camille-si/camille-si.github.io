@@ -1,30 +1,24 @@
 ---
-layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+layout: about
+title: about
+permalink: /qomex
+
+profile:
+  align: right
+  image: prof_pic.png
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>Elektro B, O. S. Bragstads Plass 2A</p>
+    <p>7034 Trondheim, NO</p>
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+<p>Hi ! I'm a PhD student in security and privacy for XR at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. I work in the Department of Information Security and Communication Technology, under the supervision of Associate Professor <a href='https://www.ntnu.edu/employees/katrien.demoor'>Katrien De Moor</a>. </p>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+<p> My research aims to understand the way security, privacy and usability interact in immersive technologies, in order to provide XR experiences that are both secure and human-centered. My PhD is a part of NTNU's <a href='https://www.ntnu.edu/perseus/'>PERSEUS</a> project and <a href='https://www.ntnu.edu/norcics'>SFI NORCICS</a>.</p>
 
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<p>I received a M.S. in Information Security from the Université de Lorraine and I graduated from the Ecole des Mines de Nancy (Nancy, France). Prior to starting my PhD, I worked as a Research Engineer in I-Iot security for CEA-Leti (Grenoble, France). </p>
