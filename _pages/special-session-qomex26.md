@@ -1,21 +1,14 @@
 ---
-layout: about
+layout: qomex
 title: about
 permalink: /qomex
 
-profile:
-  align: right
-  image: prof_pic.png
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Elektro B, O. S. Bragstads Plass 2A</p>
-    <p>7034 Trondheim, NO</p>
-
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
 
 <p>Hi ! I'm a PhD student in security and privacy for XR at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. I work in the Department of Information Security and Communication Technology, under the supervision of Associate Professor <a href='https://www.ntnu.edu/employees/katrien.demoor'>Katrien De Moor</a>. </p>
 
