@@ -12,26 +12,11 @@ social: false  # includes social icons at the bottom of the page
 <div style="
   width: 100%;
   color: #ffffff;
-  padding: 10px 20px;
+  padding: 10px 10px;
   box-sizing: border-box;
   text-align: center;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 ">
-
-  <!-- Small top label -->
-  <div style="
-    display: inline-block;
-    background-color: #964a4b;
-    color: #ffffff;
-    padding: 8px 14px;
-    border-radius: 6px;
-    font-size: 14px;
-    font-weight: 600;
-    letter-spacing: 0.05em;
-    margin-bottom: 24px;
-  ">
-    CALL FOR PAPERS
-  </div>
 
   <!-- Title -->
   <h1 style="
@@ -53,7 +38,7 @@ social: false  # includes social icons at the bottom of the page
     line-height: 1.6;
     color: #cbd5e1;
   ">
-  A special session @ the 18th <b><a href="https://qomex2026.itec.aau.at">International Conference on Quality of Multimedia Experience (QoMEX) 2026</a></b>. <br/>📍 Cardiff, UK <br/>📅 June 29 - July 3, 2026  </p>
+  A special session @ the 18th <b><a href="https://qomex2026.itec.aau.at">International Conference on Quality of Multimedia Experience (QoMEX) 2026</a></b>. <br/>📍 Cardiff, UK <br/>📅 June 29 - July 3, 2026 <br/>📣 We are now inviting papers!  </p>
 </div>
 <h2> Description </h2>
 <p>
