@@ -12,7 +12,7 @@ social: false  # includes social icons at the bottom of the page
 <div style="
   width: 100%;
   color: #ffffff;
-  padding: 100px 20px;
+  padding: 10px 20px;
   box-sizing: border-box;
   text-align: center;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -47,16 +47,14 @@ social: false  # includes social icons at the bottom of the page
 
   <!-- Subtitle -->
   <p style="
-    margin: 0 auto 32px auto;
+    margin: 0 auto 0 auto;
     max-width: 700px;
     font-size: 18px;
     line-height: 1.6;
     color: #cbd5e1;
   ">
   A special session @ the 18th <b><a href="https://qomex2026.itec.aau.at">International Conference on Quality of Multimedia Experience (QoMEX) 2026</a></b>. <br/>📍 Cardiff, UK <br/>📅 June 29 - July 3, 2026  </p>
-
 </div>
-
 <h2> Description </h2>
 <p>
 Despite technical and methodological advances in the development and evaluation of enjoyable technology experiences, one aspect often remains overlooked in QoE research: the broader ethical implications of these digital experiences. For instance, AI can adapt and improve user experiences — but it creates concerns regarding aspects such as biases, fairness, transparency, trust and accountability. Social media or streaming platforms can negatively impact users’ wellbeing and mental health. UX research on Gen-AI or XR raises concerns regarding privacy, responsible use of AI, and long-term environmental impact of these technologies. It is critical to start considering these implications and balancing UX and ethical costs, in order to provide technology experiences that are not just enjoyable but truly human-centered, ethical, and empowering. </p>
