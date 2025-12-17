@@ -11,7 +11,6 @@ social: false  # includes social icons at the bottom of the page
 
 <div style="
   width: 100%;
-  background-color: #964a4b;
   color: #ffffff;
   padding: 100px 20px;
   box-sizing: border-box;
@@ -22,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
   <!-- Small top label -->
   <div style="
     display: inline-block;
-    background-color: #95c2ae;
+    background-color: #964a4b;
     color: #ffffff;
     padding: 8px 14px;
     border-radius: 6px;
@@ -54,21 +53,8 @@ social: false  # includes social icons at the bottom of the page
     line-height: 1.6;
     color: #cbd5e1;
   ">
-  A special session @ the 18th **International Conference on Quality of Multimedia Experience** (QoMEX’26)  </p>
+  A special session @ the 18th <b>International Conference on Quality of Multimedia Experience (QoMEX) 2026</b>. <br/>📍 Cardiff, UK <br/>📅 June 29 - July 3, 2026  </p>
 
-  <!-- Meta info -->
-  <div style="
-    display: flex;
-    justify-content: center;
-    gap: 32px;
-    font-size: 16px;
-    color: #e5e7eb;
-    margin-bottom: 40px;
-    flex-wrap: wrap;
-  ">
-    <div>📍 Cardiff, UK</div>
-    <div>📅 June 29 - July 3, 2026</div>
-  </div>
 </div>
 
 <h2> Description </h2>
