@@ -60,10 +60,10 @@ We invite full papers (up to 6 pages for technical content including figures and
 </ul>
 
 <h2> Dates and informations </h2>
-The special session will be a part of the conference program and accepted papers will be published as a part of the proceedings of QoMEX 2026. Submitted papers will be peer-reviewed by the conference reviewers.
+The special session will be a part of the conference program and accepted papers will be published as a part of the proceedings of QoMEX 2026. Submitted papers will be peer-reviewed by the conference reviewers.<br/>
 
-Full Paper Registration (title, abstract, and author list): <b>February 6, 2026</b>
-Full Papers Submission: <b>February 13, 2026</b>
+Full Paper Registration (title, abstract, and author list): <b>February 6, 2026</b><br/>
+Full Papers Submission: <b>February 13, 2026</b><br/>
 Full Papers Notification: <b>April 10, 2026</b>
 
 <h2> Organisers </h2>
