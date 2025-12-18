@@ -1,7 +1,7 @@
 ---
 layout: qomex
 title: QoMEX Special Session
-permalink: /qomex
+permalink: /special-session-ethics-qomex26
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
