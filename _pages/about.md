@@ -7,7 +7,7 @@ subtitle: PhD Candidate at <a href='https://www.ntnu.edu/employees/camille.sivel
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
